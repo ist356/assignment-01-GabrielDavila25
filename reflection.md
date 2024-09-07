@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Gabriel Davila
+Sudent Email:  gdavil01@syr.edu
 
 ## Instructions
 
@@ -22,4 +22,10 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
+
+After finishing my code, I was feeling pretty confident. I had checked everything thoroughly, even using Google to make sure my logic was sound. Yesterday, all the tests passed without any problems, and I thought I was done. But today, the tests are failing, and I can't figure out why. It’s frustrating because, in theory, the code should still be working. I double-checked the file path, and it seems correct..I’ve gone through it multiple times to make sure there are no typos or directory issues. I also tried running the script from different directories, both with relative and absolute paths, to see if it was a directory issue, but that didn’t solve the problem.
+
+I made sure the file permissions were correct and even moved the files to different locations to test if that would fix it, but no luck. I also confirmed that the Python version and environment I’m using are the same as before when it was working. Despite all of this troubleshooting, the issue persists, and I’m still not sure what’s going wrong.
+
+This process has made me realize that while I understand file paths and basic execution in Python, there are still gaps in my knowledge when it comes to troubleshooting issues like this, especially when things seem fine but aren't working as expected. I think I need more practice with debugging tools and maybe learning more about how different environments affect Python scripts. It’s confusing, but at least now I know where I need to improve.
 

@@ -23,9 +23,9 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
-After finishing my code, I was feeling pretty confident. I had checked everything thoroughly, even using Google to make sure my logic was sound. Yesterday, all the tests passed without any problems, and I thought I was done. But today, the tests are failing, and I can't figure out why. It’s frustrating because, in theory, the code should still be working. I double-checked the file path, and it seems correct..I’ve gone through it multiple times to make sure there are no typos or directory issues. I also tried running the script from different directories, both with relative and absolute paths, to see if it was a directory issue, but that didn’t solve the problem.
+This assignment was a great way for me to get more familiar with using the debugger in VSCode. Before, I wasn’t really using it much—I’d just try to spot errors by reading the code or rerunning it over and over. But this time, I actually set breakpoints and used the step-by-step execution to see how the code was running in real time. It helped me understand exactly what was happening at each stage of the program and how the variables were changing as the code ran.
 
-I made sure the file permissions were correct and even moved the files to different locations to test if that would fix it, but no luck. I also confirmed that the Python version and environment I’m using are the same as before when it was working. Despite all of this troubleshooting, the issue persists, and I’m still not sure what’s going wrong.
+The coolest part was being able to pause the code and inspect the values in the VARIABLES section, which gave me more insight into how things were working (or not working). Using the debugger feels like having a tool to "see" the code's behavior instead of guessing at what went wrong. I still have a lot to learn, especially when it comes to debugging more complex issues, but I’m definitely more comfortable now and will use it way more often moving forward.
 
-This process has made me realize that while I understand file paths and basic execution in Python, there are still gaps in my knowledge when it comes to troubleshooting issues like this, especially when things seem fine but aren't working as expected. I think I need more practice with debugging tools and maybe learning more about how different environments affect Python scripts. It’s confusing, but at least now I know where I need to improve.
+
 
